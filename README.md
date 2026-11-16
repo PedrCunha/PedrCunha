@@ -15,28 +15,43 @@
 ### 👨‍💻 `quem sou`
 
 ```yaml
-nome:        Pedro Cunha de Oliveira
-cargo:       Suporte N1
-empresa:     Numem
-experiência: 1 ano em TI
+nome:          Pedro Cunha de Oliveira
+cargo:         Suporte N1
+empresa:       Numem
+experiência:   1 ano em TI
+nuvem:         Nada adicionado... ainda
+certificações: Nada adicionado... ainda
+formação:      Nada adicionado... ainda
+idiomas:       Nada adicionado... ainda
+foco:          Suporte N1 e fundamentos de TI
 ```
 
 Sou um jovem em desenvolvimento na área de TI, com muita disposição para aprender e vontade de inovar. Gosto de entender como as coisas funcionam, trocar ideias e buscar maneiras de aplicar o que aprendo no dia a dia.
 
 ### ⚡ Stack técnica
 
-**Suporte de TI**
+<p align="center"><strong>🛠️ Suporte de TI</strong></p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/ATENDIMENTO_N1-007E94?style=for-the-badge" alt="Atendimento N1">
   <img src="https://img.shields.io/badge/SUPORTE_T%C3%89CNICO-3159A6?style=for-the-badge" alt="Suporte técnico">
 </p>
 
 **Em desenvolvimento** · Fundamentos de TI e diagnóstico de problemas.
 
+<p align="center"><strong>🤖 IA e modelos de linguagem</strong><br>Nada adicionado... ainda</p>
+
+<p align="center"><strong>☁️ Nuvem e infraestrutura</strong><br>Nada adicionado... ainda</p>
+
+<p align="center"><strong>📊 Dados e pipelines</strong><br>Nada adicionado... ainda</p>
+
+<p align="center"><strong>⚙️ DevOps e automação</strong><br>Nada adicionado... ainda</p>
+
 ### 🏆 Projetos em destaque
 
-Ainda não tenho projetos em destaque.
+| Projeto | Papel | Destaques |
+| --- | --- | --- |
+| Nada adicionado... ainda | — | — |
 
 ### 🌟 Diferenciais
 
@@ -51,10 +66,15 @@ Ainda não tenho projetos em destaque.
 ### 👨‍💻 `whoami`
 
 ```yaml
-name:        Pedro Cunha de Oliveira
-role:        Level 1 IT Support
-company:     Numem
-experience:  1 year in IT
+name:           Pedro Cunha de Oliveira
+role:           Level 1 IT Support
+company:        Numem
+experience:     1 year in IT
+cloud:          Nothing added... yet
+certifications: Nothing added... yet
+education:      Nothing added... yet
+languages:      Nothing added... yet
+focus:          Level 1 support and IT fundamentals
 ```
 
 I'm early in my IT career, eager to learn and curious about new ideas. I enjoy figuring out how things work, sharing ideas, and putting what I learn into practice.
@@ -65,9 +85,19 @@ I'm early in my IT career, eager to learn and curious about new ideas. I enjoy f
 
 **Developing** · IT fundamentals and troubleshooting.
 
+<p align="center"><strong>🤖 AI and language models</strong><br>Nothing added... yet</p>
+
+<p align="center"><strong>☁️ Cloud and infrastructure</strong><br>Nothing added... yet</p>
+
+<p align="center"><strong>📊 Data and pipelines</strong><br>Nothing added... yet</p>
+
+<p align="center"><strong>⚙️ DevOps and automation</strong><br>Nothing added... yet</p>
+
 ### 🏆 Featured projects
 
-No featured projects yet.
+| Project | Role | Highlights |
+| --- | --- | --- |
+| Nothing added... yet | — | — |
 
 ### 🌟 Strengths
 
