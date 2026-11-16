@@ -55,9 +55,11 @@ Sou um jovem em desenvolvimento na área de TI, com muita disposição para apre
 
 ### 🌟 Diferenciais
 
-- **Comunicação** · Gosto de ouvir, fazer perguntas e explicar com clareza.
-- **Curiosidade** · Quero entender a causa de um problema e aprender com a solução.
-- **Disposição** · Encaro desafios novos como oportunidades de aprender.
+```
+Comunicação │ Ouvir, perguntar e explicar com clareza.
+Curiosidade │ Entender a causa e aprender com a solução.
+Disposição  │ Encarar novos desafios com vontade de aprender.
+```
 
 ---
 
@@ -101,9 +103,11 @@ I'm early in my IT career, eager to learn and curious about new ideas. I enjoy f
 
 ### 🌟 Strengths
 
-- **Communication** · I like to listen, ask questions, and explain things clearly.
-- **Curiosity** · I want to understand what caused a problem and learn from the fix.
-- **Willingness to learn** · I see new challenges as chances to learn.
+```
+Communication        │ Listen, ask questions, and explain clearly.
+Curiosity            │ Find the cause and learn from the fix.
+Willingness to learn │ See new challenges as chances to learn.
+```
 
 ---
 
